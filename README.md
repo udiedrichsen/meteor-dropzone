@@ -10,6 +10,11 @@ Intended for versions of Meteor 1.0 using DropzoneJS 4.0.1
 ```
     meteor add doedel:dropzonejs
 ```
+## Demo
+https://github.com/udiedrichsen/meteor-dropzone-demo
+
+## Git demo source
+https://github.com/udiedrichsen/meteor-dropzone-demo
 
 ## Usage
 In your handlebar templates you can just include the template Dropzonejs:
