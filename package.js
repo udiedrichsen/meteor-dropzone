@@ -16,8 +16,6 @@ Package.onUse(function(api) {
   //add dropzone library 
   api.addFiles([
   	'lib/4.0.1/dropzone.js',
-  	'lib/4.0.1/images/spritemap.png',
-  	'lib/4.0.1/images/spritemap@2x.png',
   	'lib/4.0.1/css/basic.css',
   	'lib/4.0.1/css/dropzone.css',
   ], 'client');
