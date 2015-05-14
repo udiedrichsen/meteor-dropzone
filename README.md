@@ -4,11 +4,11 @@
 [DropzoneJS](http://www.dropzonejs.com/) is an open source library that provides drag'n'drop file uploads with image previews.
 
 ## Compatibility
-Intended for versions of Meteor 1.0
+Intended for versions of Meteor 1.0 using DropzoneJS 4.0.1
 
 ## Installation
 ```
-    meteor add dbarrett:dropzonejs
+    meteor add doedel:dropzonejs
 ```
 
 ## Usage
